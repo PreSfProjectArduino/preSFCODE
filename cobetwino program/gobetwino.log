@@ -1156,3 +1156,565 @@
 5/3/2016 6:25:02 μμ,Command parsed OK
 5/3/2016 6:25:02 μμ,Executing command : CODEBANK
 5/3/2016 6:25:02 μμ,Data logged to C:\Users\avgenakis giwrgos\Desktop\codeBank.txt
+5/3/2016 7:50:33 μμ,Serial port : COM7 opened at 9600 baud
+5/3/2016 7:55:28 μμ,Serial port : COM7 opened at 9600 baud
+5/3/2016 7:55:35 μμ,Commandstring recieved : low
+5/3/2016 7:55:35 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:36 μμ,Commandstring recieved : low
+5/3/2016 7:55:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:37 μμ,Commandstring recieved : low
+5/3/2016 7:55:37 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:38 μμ,Commandstring recieved : low
+5/3/2016 7:55:38 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:39 μμ,Commandstring recieved : low
+5/3/2016 7:55:39 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:40 μμ,Commandstring recieved : low
+5/3/2016 7:55:40 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:41 μμ,Commandstring recieved : low
+5/3/2016 7:55:41 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:42 μμ,Commandstring recieved : low
+5/3/2016 7:55:42 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:43 μμ,Commandstring recieved : low
+5/3/2016 7:55:43 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:44 μμ,Commandstring recieved : low
+5/3/2016 7:55:44 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:45 μμ,Commandstring recieved : low
+5/3/2016 7:55:45 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:46 μμ,Commandstring recieved : low
+5/3/2016 7:55:46 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:47 μμ,Commandstring recieved : low
+5/3/2016 7:55:47 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:48 μμ,Commandstring recieved : low
+5/3/2016 7:55:48 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:49 μμ,Commandstring recieved : low
+5/3/2016 7:55:49 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:50 μμ,Commandstring recieved : low
+5/3/2016 7:55:50 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:51 μμ,Commandstring recieved : low
+5/3/2016 7:55:51 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:52 μμ,Commandstring recieved : low
+5/3/2016 7:55:52 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:53 μμ,Commandstring recieved : low
+5/3/2016 7:55:53 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:54 μμ,Commandstring recieved : low
+5/3/2016 7:55:54 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:55 μμ,Commandstring recieved : low
+5/3/2016 7:55:55 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:56 μμ,Commandstring recieved : low
+5/3/2016 7:55:56 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:57 μμ,Commandstring recieved : low
+5/3/2016 7:55:57 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:58 μμ,Commandstring recieved : low
+5/3/2016 7:55:58 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:55:59 μμ,Commandstring recieved : low
+5/3/2016 7:55:59 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:00 μμ,Commandstring recieved : low
+5/3/2016 7:56:00 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:01 μμ,Commandstring recieved : low
+5/3/2016 7:56:01 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:02 μμ,Commandstring recieved : low
+5/3/2016 7:56:02 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:03 μμ,Commandstring recieved : low
+5/3/2016 7:56:03 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:04 μμ,Commandstring recieved : low
+5/3/2016 7:56:04 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:05 μμ,Commandstring recieved : low
+5/3/2016 7:56:05 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:06 μμ,Commandstring recieved : low
+5/3/2016 7:56:06 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:07 μμ,Commandstring recieved : low
+5/3/2016 7:56:07 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:08 μμ,Commandstring recieved : low
+5/3/2016 7:56:08 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:09 μμ,Commandstring recieved : low
+5/3/2016 7:56:09 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:10 μμ,Commandstring recieved : low
+5/3/2016 7:56:10 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:11 μμ,Commandstring recieved : low
+5/3/2016 7:56:11 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:12 μμ,Commandstring recieved : low
+5/3/2016 7:56:12 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:13 μμ,Commandstring recieved : low
+5/3/2016 7:56:13 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:14 μμ,Commandstring recieved : low
+5/3/2016 7:56:14 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:15 μμ,Commandstring recieved : low
+5/3/2016 7:56:15 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:16 μμ,Commandstring recieved : low
+5/3/2016 7:56:16 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:17 μμ,Commandstring recieved : low
+5/3/2016 7:56:17 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:18 μμ,Commandstring recieved : low
+5/3/2016 7:56:18 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:19 μμ,Commandstring recieved : low
+5/3/2016 7:56:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:20 μμ,Commandstring recieved : low
+5/3/2016 7:56:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:21 μμ,Commandstring recieved : low
+5/3/2016 7:56:21 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:22 μμ,Commandstring recieved : low
+5/3/2016 7:56:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:23 μμ,Commandstring recieved : low
+5/3/2016 7:56:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:24 μμ,Commandstring recieved : low
+5/3/2016 7:56:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:25 μμ,Commandstring recieved : low
+5/3/2016 7:56:25 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:26 μμ,Commandstring recieved : low
+5/3/2016 7:56:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:27 μμ,Commandstring recieved : low
+5/3/2016 7:56:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:28 μμ,Commandstring recieved : low
+5/3/2016 7:56:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:29 μμ,Commandstring recieved : low
+5/3/2016 7:56:29 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:30 μμ,Commandstring recieved : low
+5/3/2016 7:56:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:31 μμ,Commandstring recieved : low
+5/3/2016 7:56:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:32 μμ,Commandstring recieved : low
+5/3/2016 7:56:32 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:33 μμ,Commandstring recieved : low
+5/3/2016 7:56:33 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:34 μμ,Commandstring recieved : low
+5/3/2016 7:56:34 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:35 μμ,Commandstring recieved : low
+5/3/2016 7:56:35 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:36 μμ,Commandstring recieved : low
+5/3/2016 7:56:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:37 μμ,Commandstring recieved : low
+5/3/2016 7:56:37 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:38 μμ,Commandstring recieved : low
+5/3/2016 7:56:38 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:39 μμ,Commandstring recieved : low
+5/3/2016 7:56:39 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:40 μμ,Commandstring recieved : low
+5/3/2016 7:56:40 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:41 μμ,Commandstring recieved : low
+5/3/2016 7:56:41 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:42 μμ,Commandstring recieved : low
+5/3/2016 7:56:42 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:43 μμ,Commandstring recieved : low
+5/3/2016 7:56:43 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:44 μμ,Commandstring recieved : low
+5/3/2016 7:56:44 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:45 μμ,Commandstring recieved : low
+5/3/2016 7:56:45 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:46 μμ,Commandstring recieved : low
+5/3/2016 7:56:46 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:47 μμ,Commandstring recieved : low
+5/3/2016 7:56:47 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:48 μμ,Commandstring recieved : low
+5/3/2016 7:56:48 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:49 μμ,Commandstring recieved : low
+5/3/2016 7:56:49 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:50 μμ,Commandstring recieved : low
+5/3/2016 7:56:50 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:51 μμ,Commandstring recieved : low
+5/3/2016 7:56:51 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:52 μμ,Commandstring recieved : low
+5/3/2016 7:56:52 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:53 μμ,Commandstring recieved : low
+5/3/2016 7:56:53 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:54 μμ,Commandstring recieved : low
+5/3/2016 7:56:54 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:55 μμ,Commandstring recieved : low
+5/3/2016 7:56:55 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:56 μμ,Commandstring recieved : low
+5/3/2016 7:56:56 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:57 μμ,Commandstring recieved : low
+5/3/2016 7:56:57 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:58 μμ,Commandstring recieved : low
+5/3/2016 7:56:58 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:56:59 μμ,Commandstring recieved : low
+5/3/2016 7:56:59 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:00 μμ,Commandstring recieved : low
+5/3/2016 7:57:00 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:01 μμ,Commandstring recieved : low
+5/3/2016 7:57:01 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:02 μμ,Commandstring recieved : low
+5/3/2016 7:57:02 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:03 μμ,Commandstring recieved : low
+5/3/2016 7:57:03 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:04 μμ,Commandstring recieved : low
+5/3/2016 7:57:04 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:05 μμ,Commandstring recieved : low
+5/3/2016 7:57:05 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:06 μμ,Commandstring recieved : low
+5/3/2016 7:57:06 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:07 μμ,Commandstring recieved : low
+5/3/2016 7:57:07 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:08 μμ,Commandstring recieved : low
+5/3/2016 7:57:08 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:09 μμ,Commandstring recieved : low
+5/3/2016 7:57:09 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:10 μμ,Commandstring recieved : low
+5/3/2016 7:57:10 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:11 μμ,Commandstring recieved : low
+5/3/2016 7:57:11 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:12 μμ,Commandstring recieved : low
+5/3/2016 7:57:12 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:13 μμ,Commandstring recieved : low
+5/3/2016 7:57:13 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:14 μμ,Commandstring recieved : low
+5/3/2016 7:57:14 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:15 μμ,Commandstring recieved : low
+5/3/2016 7:57:15 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:16 μμ,Commandstring recieved : low
+5/3/2016 7:57:16 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:17 μμ,Commandstring recieved : low
+5/3/2016 7:57:17 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:18 μμ,Commandstring recieved : low
+5/3/2016 7:57:18 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:19 μμ,Commandstring recieved : low
+5/3/2016 7:57:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:20 μμ,Commandstring recieved : low
+5/3/2016 7:57:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:21 μμ,Commandstring recieved : low
+5/3/2016 7:57:21 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:22 μμ,Commandstring recieved : low
+5/3/2016 7:57:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:23 μμ,Commandstring recieved : low
+5/3/2016 7:57:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:24 μμ,Commandstring recieved : low
+5/3/2016 7:57:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:25 μμ,Commandstring recieved : low
+5/3/2016 7:57:25 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:26 μμ,Commandstring recieved : low
+5/3/2016 7:57:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:27 μμ,Commandstring recieved : low
+5/3/2016 7:57:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:28 μμ,Commandstring recieved : low
+5/3/2016 7:57:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:29 μμ,Commandstring recieved : low
+5/3/2016 7:57:29 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:30 μμ,Commandstring recieved : low
+5/3/2016 7:57:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:31 μμ,Commandstring recieved : low
+5/3/2016 7:57:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:57:37 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:57:37 μμ,Command parsed OK
+5/3/2016 7:57:37 μμ,Executing command : CODEBANK
+5/3/2016 7:57:37 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:57:43 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:57:43 μμ,Command parsed OK
+5/3/2016 7:57:43 μμ,Executing command : CODEBANK
+5/3/2016 7:57:43 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:57:49 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:57:49 μμ,Command parsed OK
+5/3/2016 7:57:49 μμ,Executing command : CODEBANK
+5/3/2016 7:57:49 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:58:06 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:58:06 μμ,Command parsed OK
+5/3/2016 7:58:06 μμ,Executing command : CODEBANK
+5/3/2016 7:58:06 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:58:11 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:58:12 μμ,Command parsed OK
+5/3/2016 7:58:12 μμ,Executing command : CODEBANK
+5/3/2016 7:58:12 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:58:18 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 7:58:18 μμ,Command parsed OK
+5/3/2016 7:58:18 μμ,Executing command : CODEBANK
+5/3/2016 7:58:18 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 7:58:18 μμ,Commandstring recieved : low
+5/3/2016 7:58:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:19 μμ,Commandstring recieved : low
+5/3/2016 7:58:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:20 μμ,Commandstring recieved : low
+5/3/2016 7:58:21 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:21 μμ,Commandstring recieved : low
+5/3/2016 7:58:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:22 μμ,Commandstring recieved : low
+5/3/2016 7:58:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:23 μμ,Commandstring recieved : low
+5/3/2016 7:58:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:24 μμ,Commandstring recieved : low
+5/3/2016 7:58:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:26 μμ,Commandstring recieved : low
+5/3/2016 7:58:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:26 μμ,Commandstring recieved : low
+5/3/2016 7:58:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:27 μμ,Commandstring recieved : low
+5/3/2016 7:58:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:29 μμ,Commandstring recieved : low
+5/3/2016 7:58:29 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:29 μμ,Commandstring recieved : low
+5/3/2016 7:58:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:31 μμ,Commandstring recieved : low
+5/3/2016 7:58:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:31 μμ,Commandstring recieved : low
+5/3/2016 7:58:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:32 μμ,Commandstring recieved : low
+5/3/2016 7:58:32 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:33 μμ,Commandstring recieved : low
+5/3/2016 7:58:34 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:34 μμ,Commandstring recieved : low
+5/3/2016 7:58:35 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:35 μμ,Commandstring recieved : low
+5/3/2016 7:58:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:36 μμ,Commandstring recieved : low
+5/3/2016 7:58:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:37 μμ,Commandstring recieved : low
+5/3/2016 7:58:38 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:38 μμ,Commandstring recieved : low
+5/3/2016 7:58:39 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:40 μμ,Commandstring recieved : low
+5/3/2016 7:58:40 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:40 μμ,Commandstring recieved : low
+5/3/2016 7:58:41 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:41 μμ,Commandstring recieved : low
+5/3/2016 7:58:42 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:42 μμ,Commandstring recieved : low
+5/3/2016 7:58:43 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:43 μμ,Commandstring recieved : low
+5/3/2016 7:58:44 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:44 μμ,Commandstring recieved : low
+5/3/2016 7:58:45 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:45 μμ,Commandstring recieved : low
+5/3/2016 7:58:46 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:47 μμ,Commandstring recieved : low
+5/3/2016 7:58:47 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:48 μμ,Commandstring recieved : low
+5/3/2016 7:58:48 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:48 μμ,Commandstring recieved : low
+5/3/2016 7:58:49 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:50 μμ,Commandstring recieved : low
+5/3/2016 7:58:50 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:50 μμ,Commandstring recieved : low
+5/3/2016 7:58:51 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:51 μμ,Commandstring recieved : low
+5/3/2016 7:58:51 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:52 μμ,Commandstring recieved : low
+5/3/2016 7:58:52 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:53 μμ,Commandstring recieved : low
+5/3/2016 7:58:54 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:54 μμ,Commandstring recieved : low
+5/3/2016 7:58:54 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:55 μμ,Commandstring recieved : low
+5/3/2016 7:58:56 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:56 μμ,Commandstring recieved : low
+5/3/2016 7:58:56 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:57 μμ,Commandstring recieved : low
+5/3/2016 7:58:58 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:59 μμ,Commandstring recieved : low
+5/3/2016 7:58:59 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:58:59 μμ,Commandstring recieved : low
+5/3/2016 7:59:00 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:00 μμ,Commandstring recieved : low
+5/3/2016 7:59:01 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:02 μμ,Commandstring recieved : low
+5/3/2016 7:59:02 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:02 μμ,Commandstring recieved : low
+5/3/2016 7:59:03 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:04 μμ,Commandstring recieved : low
+5/3/2016 7:59:04 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:04 μμ,Commandstring recieved : low
+5/3/2016 7:59:05 μμ,The string recieved : low is not a well formed command string
+5/3/2016 7:59:06 μμ,Commandstring recieved : low
+5/3/2016 7:59:06 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:07 μμ,Serial port : COM7 opened at 9600 baud
+5/3/2016 8:00:19 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 8:00:19 μμ,Command parsed OK
+5/3/2016 8:00:19 μμ,Executing command : CODEBANK
+5/3/2016 8:00:19 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 8:00:19 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 8:00:19 μμ,Command parsed OK
+5/3/2016 8:00:19 μμ,Executing command : CODEBANK
+5/3/2016 8:00:19 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 8:00:19 μμ,Commandstring recieved : low
+5/3/2016 8:00:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:19 μμ,Commandstring recieved : low
+5/3/2016 8:00:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:20 μμ,Commandstring recieved : low
+5/3/2016 8:00:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:21 μμ,Commandstring recieved : low
+5/3/2016 8:00:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:22 μμ,Commandstring recieved : low
+5/3/2016 8:00:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:23 μμ,Commandstring recieved : low
+5/3/2016 8:00:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:25 μμ,Commandstring recieved : low
+5/3/2016 8:00:25 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:26 μμ,Commandstring recieved : low
+5/3/2016 8:00:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:27 μμ,Commandstring recieved : low
+5/3/2016 8:00:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:27 μμ,Commandstring recieved : low
+5/3/2016 8:00:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:28 μμ,Commandstring recieved : low
+5/3/2016 8:00:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:30 μμ,Commandstring recieved : low
+5/3/2016 8:00:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:31 μμ,Commandstring recieved : low
+5/3/2016 8:00:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:32 μμ,Commandstring recieved : low
+5/3/2016 8:00:32 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:33 μμ,Commandstring recieved : low
+5/3/2016 8:00:33 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:34 μμ,Commandstring recieved : low
+5/3/2016 8:00:34 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:34 μμ,Commandstring recieved : low
+5/3/2016 8:00:35 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:35 μμ,Commandstring recieved : low
+5/3/2016 8:00:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:36 μμ,Commandstring recieved : low
+5/3/2016 8:00:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:38 μμ,Commandstring recieved : low
+5/3/2016 8:00:38 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:39 μμ,Commandstring recieved : low
+5/3/2016 8:00:39 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:40 μμ,Commandstring recieved : low
+5/3/2016 8:00:40 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:41 μμ,Commandstring recieved : low
+5/3/2016 8:00:41 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:42 μμ,Commandstring recieved : low
+5/3/2016 8:00:42 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:43 μμ,Commandstring recieved : low
+5/3/2016 8:00:43 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:44 μμ,Commandstring recieved : low
+5/3/2016 8:00:44 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:45 μμ,Commandstring recieved : low
+5/3/2016 8:00:45 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:46 μμ,Commandstring recieved : low
+5/3/2016 8:00:46 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:47 μμ,Commandstring recieved : low
+5/3/2016 8:00:47 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:48 μμ,Commandstring recieved : low
+5/3/2016 8:00:48 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:49 μμ,Commandstring recieved : low
+5/3/2016 8:00:49 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:50 μμ,Commandstring recieved : low
+5/3/2016 8:00:50 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:00:50 μμ,Commandstring recieved : low
+5/3/2016 8:00:51 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:10 μμ,Commandstring recieved : low
+5/3/2016 8:01:10 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:10 μμ,Commandstring recieved : low
+5/3/2016 8:01:11 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:12 μμ,Commandstring recieved : low
+5/3/2016 8:01:12 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:13 μμ,Commandstring recieved : low
+5/3/2016 8:01:13 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:14 μμ,Commandstring recieved : low
+5/3/2016 8:01:14 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:14 μμ,Commandstring recieved : low
+5/3/2016 8:01:15 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:16 μμ,Commandstring recieved : low
+5/3/2016 8:01:16 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:16 μμ,Commandstring recieved : low
+5/3/2016 8:01:17 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:18 μμ,Commandstring recieved : low
+5/3/2016 8:01:18 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:19 μμ,Commandstring recieved : low
+5/3/2016 8:01:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:20 μμ,Commandstring recieved : low
+5/3/2016 8:01:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:20 μμ,Commandstring recieved : low
+5/3/2016 8:01:21 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:22 μμ,Commandstring recieved : low
+5/3/2016 8:01:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:23 μμ,Commandstring recieved : low
+5/3/2016 8:01:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:24 μμ,Commandstring recieved : low
+5/3/2016 8:01:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:25 μμ,Commandstring recieved : low
+5/3/2016 8:01:25 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:26 μμ,Commandstring recieved : low
+5/3/2016 8:01:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:27 μμ,Commandstring recieved : low
+5/3/2016 8:01:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:27 μμ,Commandstring recieved : low
+5/3/2016 8:01:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:28 μμ,Commandstring recieved : low
+5/3/2016 8:01:29 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:30 μμ,Commandstring recieved : low
+5/3/2016 8:01:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:31 μμ,Commandstring recieved : low
+5/3/2016 8:01:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:32 μμ,Commandstring recieved : low
+5/3/2016 8:01:32 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:33 μμ,Commandstring recieved : low
+5/3/2016 8:01:33 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:34 μμ,Commandstring recieved : low
+5/3/2016 8:01:34 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:35 μμ,Commandstring recieved : low
+5/3/2016 8:01:35 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:36 μμ,Commandstring recieved : low
+5/3/2016 8:01:36 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:37 μμ,Commandstring recieved : low
+5/3/2016 8:01:37 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:38 μμ,Commandstring recieved : low
+5/3/2016 8:01:38 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:39 μμ,Commandstring recieved : low
+5/3/2016 8:01:39 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:40 μμ,Commandstring recieved : low
+5/3/2016 8:01:40 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:41 μμ,Commandstring recieved : low
+5/3/2016 8:01:41 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:42 μμ,Commandstring recieved : low
+5/3/2016 8:01:42 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:43 μμ,Commandstring recieved : low
+5/3/2016 8:01:43 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:43 μμ,Commandstring recieved : low
+5/3/2016 8:01:44 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:45 μμ,Commandstring recieved : low
+5/3/2016 8:01:45 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:46 μμ,Commandstring recieved : low
+5/3/2016 8:01:46 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:47 μμ,Commandstring recieved : low
+5/3/2016 8:01:47 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:48 μμ,Commandstring recieved : low
+5/3/2016 8:01:48 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:49 μμ,Commandstring recieved : low
+5/3/2016 8:01:49 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:01:50 μμ,Commandstring recieved : low
+5/3/2016 8:01:50 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:15 μμ,Commandstring recieved : low
+5/3/2016 8:02:15 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:15 μμ,Commandstring recieved : low
+5/3/2016 8:02:16 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:17 μμ,Commandstring recieved : low
+5/3/2016 8:02:17 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:18 μμ,Commandstring recieved : low
+5/3/2016 8:02:18 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:19 μμ,Commandstring recieved : low
+5/3/2016 8:02:19 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:19 μμ,Commandstring recieved : low
+5/3/2016 8:02:20 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:20 μμ,Commandstring recieved : low
+5/3/2016 8:02:21 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:22 μμ,Commandstring recieved : low
+5/3/2016 8:02:22 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:23 μμ,Commandstring recieved : low
+5/3/2016 8:02:23 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:24 μμ,Commandstring recieved : low
+5/3/2016 8:02:24 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:25 μμ,Commandstring recieved : low
+5/3/2016 8:02:25 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:26 μμ,Commandstring recieved : low
+5/3/2016 8:02:26 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:27 μμ,Commandstring recieved : low
+5/3/2016 8:02:27 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:28 μμ,Commandstring recieved : low
+5/3/2016 8:02:28 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:29 μμ,Commandstring recieved : low
+5/3/2016 8:02:29 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:29 μμ,Commandstring recieved : low
+5/3/2016 8:02:30 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:31 μμ,Commandstring recieved : low
+5/3/2016 8:02:31 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:32 μμ,Commandstring recieved : low
+5/3/2016 8:02:32 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:33 μμ,Commandstring recieved : low
+5/3/2016 8:02:33 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:34 μμ,Commandstring recieved : low
+5/3/2016 8:02:34 μμ,The string recieved : low is not a well formed command string
+5/3/2016 8:02:47 μμ,Serial port : COM7 opened at 9600 baud
+5/3/2016 8:02:54 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 8:02:54 μμ,Command parsed OK
+5/3/2016 8:02:54 μμ,Executing command : CODEBANK
+5/3/2016 8:02:54 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
+5/3/2016 8:02:54 μμ,Commandstring recieved : #S|CODEBANK|[sfhmmy]#
+5/3/2016 8:02:54 μμ,Command parsed OK
+5/3/2016 8:02:54 μμ,Executing command : CODEBANK
+5/3/2016 8:02:54 μμ,Data logged to C:\xampp\htdocs\codeBankProject\new\preSFCODE\CodeBankSite\bank.txt
