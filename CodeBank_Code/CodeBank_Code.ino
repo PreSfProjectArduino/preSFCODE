@@ -19,8 +19,11 @@ Adafruit_L3GD20 gyro(GYRO_CS, GYRO_DO, GYRO_DI, GYRO_CLK);
 int x; int y; int z;
 int MoX = 4; int MoY = 6; int MoZ = 10;
 //Password and counter of the position in the password array
-int moves[120];
-int nm = 0;
+//int moves[120];
+int **moves;
+//int nm = 0;
+int *nm;
+int counter=-1;
 //Raw data values (x.y.z)
 int value[3];
 //Predefined avarages for each axis
