@@ -19,6 +19,7 @@ void setup()
   digitalWrite(readLed,LOW);
   digitalWrite(writeLed,LOW);
   digitalWrite(standbyLed,HIGH);
+  //Serial.begin(9600);
 }
 
 void loop() 
@@ -34,7 +35,10 @@ void loop()
       {
         digitalWrite(standbyLed,LOW);
         digitalWrite(readLed,HIGH);
-        while(digitalRead(pinRead==HIGH);
+        while(digitalRead(pinRead)==HIGH)
+        {
+          //Serial.println("Akoma patimeno");
+        }
         readFlag=1;
         do
         {
@@ -48,6 +52,10 @@ void loop()
               readFlag=0;
               digitalWrite(readLed,LOW);
               digitalWrite(standbyLed,HIGH);
+              while(digitalRead(pinRead)==HIGH)
+              {
+                //Serial.println("Akoma patimeno");
+              }
             }
           }
         }while(readFlag);
@@ -65,7 +73,10 @@ void loop()
       {
         digitalWrite(standbyLed,LOW);
         digitalWrite(writeLed,HIGH);
-        while(digitalRead(pinWrite==HIGH);
+        while(digitalRead(pinWrite)==HIGH)
+        {
+          //Serial.println("Akoma patimeno");
+        }
         writeFlag=1;
         do
         {
@@ -79,6 +90,10 @@ void loop()
               writeFlag=0;
               digitalWrite(writeLed,LOW);
               digitalWrite(standbyLed,HIGH);
+              while(digitalRead(pinWrite)==HIGH)
+              {
+                //Serial.println("Akoma patimeno");
+              }
             }
           }
         }while(writeFlag);

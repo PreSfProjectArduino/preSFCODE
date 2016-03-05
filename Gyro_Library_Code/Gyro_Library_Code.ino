@@ -3,6 +3,7 @@
 
   Designed specifically to work with the Adafruit L3GD20 Breakout 
   ----> https://www.adafruit.com/products/1032
+
   These sensors use I2C or SPI to communicate, 2 pins (I2C) 
   or 4 pins (SPI) are required to interface.
 
