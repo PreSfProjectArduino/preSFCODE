@@ -22,12 +22,19 @@
     #panelLogin{
         background-color: #cccccc;
         margin-top: 4em;
+        padding-bottom: 20px;
     }
 
     #iconWearable{
         width: 6em;
         height: 6em;
         margin-left: 0em;
+    }
+    form{
+        margin-top: 5px
+    }
+    input {
+        margin-bottom: 10px;
     }
 </style>
 
