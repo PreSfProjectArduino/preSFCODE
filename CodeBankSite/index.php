@@ -1,4 +1,4 @@
-﻿<?php include 'header.php' 
+﻿<?php include 'header.php';
 $fh = fopen('bank.txt','w');
 fclose($fh);
 ?>
@@ -48,7 +48,7 @@ $(function() {
         },
         complete: function() {
           // Schedule the next request when the current one's complete
-          setTimeout(worker, 2000);
+          setTimeout(worker, 1000);
         }
       });
     })();
