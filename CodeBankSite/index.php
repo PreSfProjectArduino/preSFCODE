@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+﻿<?php include 'header.php' ?>
             <div class="account-wall">
                 <?php 
                 if (!empty($_GET['error'])) {
@@ -45,7 +45,7 @@ $(function() {
         },
         complete: function() {
           // Schedule the next request when the current one's complete
-          setTimeout(worker, 5000);
+          setTimeout(worker, 2000);
         }
       });
     })();
@@ -53,5 +53,5 @@ $(function() {
 });
 </script>
 
-<?php> include 'footer.php' ?>
+<?php include 'footer.php' ?>
 
