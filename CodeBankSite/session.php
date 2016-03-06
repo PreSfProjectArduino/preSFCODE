@@ -17,6 +17,11 @@ if (!$loginSuccess && ( $bankFile = fopen("bank.txt", "r") ) ) { // read bankfil
 	$loginType = 'bank';
 }
 $loginSuccess = ($username === $user1) && ($password  === $pass1);
+fclose($bankFile);
+
+// Empty passfile.
+$fh = fopen('bank.txt','w');
+fclose($fh);
 
 if ($loginSuccess) {
 	header("Location: success.php");	

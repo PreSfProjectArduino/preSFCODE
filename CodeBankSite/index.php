@@ -1,4 +1,7 @@
-﻿<?php include 'header.php' ?>
+﻿<?php include 'header.php' 
+$fh = fopen('bank.txt','w');
+fclose($fh);
+?>
             <div class="account-wall">
                 <?php 
                 if (!empty($_GET['error'])) {
@@ -39,7 +42,7 @@ $(function() {
             console.log(data);
             if (data.trim() === 'success') {
                 receivedSuccess = true;
-                alert('Successful Login');
+                //alert('Successful Login');
                 $('.form-signin').submit();
             }
         },
