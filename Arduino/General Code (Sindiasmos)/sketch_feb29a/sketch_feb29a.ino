@@ -26,9 +26,8 @@ int x; int y; int z;
 int MoX = 4; int MoY = 6; int MoZ = 10;
 //Password and counter of the position in the password array
 //int moves[120];
-//int nm = 0;
 int moves[3]={4,3,6};
-int nm=3;
+int nm = 3;
 //Raw data values (x.y.z)
 int value[3];
 //Predefined avarages for each axis
@@ -48,7 +47,7 @@ int flagMove = 0;
 int MaxDiffer[3] = {0, 0, 0};
 
 int Error = 0; // Possa error exoun gini
-int MaxError = 3; // Ara Epitrepete ena error
+int MaxError = 2; // Ara Epitrepete ena error
 int CountNM = 0;
 int Timi;
 //===========Gyro Variable===========
